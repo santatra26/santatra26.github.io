@@ -41,7 +41,7 @@
     <!-- Acceuil-->
     <section class="page-section" id="acceuil">
         <div class="container">
-            <div class="row">
+            <div class="row" align="center">
                 <div class="col-lg-4 col-sm-6 mb-4">
                     <div class="portfolio-item">
                         <img width="400" src="Images/IMG_5720.JPG" alt="home" class="img-polaroid img-fluid " />
@@ -195,7 +195,7 @@
     <footer id="footer" class="top-space">
 
         <div class="footer1">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     
                     <div class="col-md-3 widget">
